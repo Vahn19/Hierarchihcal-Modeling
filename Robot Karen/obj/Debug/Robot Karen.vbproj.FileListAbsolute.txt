@@ -1,0 +1,12 @@
+C:\Users\Ammar\source\repos\Robot Karen\Robot Karen\bin\Debug\Robot Karen.exe.config
+C:\Users\Ammar\source\repos\Robot Karen\Robot Karen\bin\Debug\Robot Karen.exe
+C:\Users\Ammar\source\repos\Robot Karen\Robot Karen\bin\Debug\Robot Karen.pdb
+C:\Users\Ammar\source\repos\Robot Karen\Robot Karen\bin\Debug\Robot Karen.xml
+C:\Users\Ammar\source\repos\Robot Karen\Robot Karen\obj\Debug\Robot Karen.vbprojAssemblyReference.cache
+C:\Users\Ammar\source\repos\Robot Karen\Robot Karen\obj\Debug\Robot_Karen.Form1.resources
+C:\Users\Ammar\source\repos\Robot Karen\Robot Karen\obj\Debug\Robot_Karen.Resources.resources
+C:\Users\Ammar\source\repos\Robot Karen\Robot Karen\obj\Debug\Robot Karen.vbproj.GenerateResource.cache
+C:\Users\Ammar\source\repos\Robot Karen\Robot Karen\obj\Debug\Robot Karen.vbproj.CoreCompileInputs.cache
+C:\Users\Ammar\source\repos\Robot Karen\Robot Karen\obj\Debug\Robot Karen.exe
+C:\Users\Ammar\source\repos\Robot Karen\Robot Karen\obj\Debug\Robot Karen.xml
+C:\Users\Ammar\source\repos\Robot Karen\Robot Karen\obj\Debug\Robot Karen.pdb
