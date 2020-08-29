@@ -1,3 +1,3 @@
 # Hierarchihcal-Modeling
 
-Implementation of Hierarchihcal Tree Algorithm
+Implementation of Hierarchihcal Tree Algorithm in Visual Basic
